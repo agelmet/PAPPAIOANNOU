@@ -3,8 +3,8 @@
  "short_name": "Ψυχολόγος Πα",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#F3F1EA",
- "theme_color": "#F3F1EA",
+ "background_color": "#F6F3EC",
+ "theme_color": "#F6F3EC",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
